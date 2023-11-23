@@ -1,6 +1,6 @@
 {
-  "name": "light-bootstrap-dashboard-react",
-  "version": "2.0.1",
+  "name": "Corluss",
+  "version": "1.0.1",
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.2",
     "bootstrap": "4.6.0",
